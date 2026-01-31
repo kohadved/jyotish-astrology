@@ -314,28 +314,5 @@ The application implements graceful degradation:
 - [ ] Mobile app (React Native)
 - [ ] Vector database for AI context (RAG)
 
-## 📝 Interview Discussion Points
-
-1. **Why MVC with Service Layer?**
-   - Separation of concerns for maintainability
-   - Services abstract external dependencies
-   - Easy to test and mock
-
-2. **Strategy Pattern for AI?**
-   - Graceful degradation when API unavailable
-   - Seamless user experience
-   - Easy to swap AI providers
-
-3. **JWT vs Sessions?**
-   - Stateless scalability
-   - Works well with SPAs
-   - Easy to verify on any server
-
-4. **MongoDB vs SQL?**
-   - Flexible schema for user data
-   - Easy horizontal scaling
-   - Native JavaScript/JSON support
-
----
 
 **Built with ✨ cosmic energy**
