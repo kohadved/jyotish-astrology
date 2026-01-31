@@ -1,6 +1,13 @@
-# Melooha - Astrology Web Application
+# Jyotish - Astrology Web Application
 
 A full-stack astrology web application featuring user authentication, birth chart generation, zodiac insights, and AI-powered daily guidance.
+
+## 🚀 Live Demo
+
+| Component | URL | Status |
+|-----------|-----|--------|
+| **Frontend** | [https://jyotish-web-eight.vercel.app](https://jyotish-web-eight.vercel.app) | 🟢 Live |
+| **Backend API** | [https://jyotish-api-ja6x.onrender.com/api](https://jyotish-api-ja6x.onrender.com/api) | 🟢 Live |
 
 ![Node.js](https://img.shields.io/badge/Node.js-18+-green)
 ![React](https://img.shields.io/badge/React-18+-blue)
